@@ -8,7 +8,7 @@
 ## 👤 Student Information
 * **Student Name:** Srinivas Reddy Pittu
 * **Course:** CS5760 - Natural Language Processing
-* **Department:** Department of Computer Science & Cybersecurity
+* **Department:** Department of Data Science & AI
 * **University:** University of Central Missouri
 * **Term:** Fall 2026
 
