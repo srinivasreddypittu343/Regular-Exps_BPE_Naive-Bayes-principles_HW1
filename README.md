@@ -23,7 +23,7 @@ This repository contains the full source code, manual calculations, and reflecti
 
 ```text
 .
-├── main.py              # Python script containing Q1, Q2, and Q5 implementations
+├── main.ipynb           # Python script containing Q1, Q2, and Q5 implementations
 ├── README.md            # Comprehensive project documentation and report
 ```
 
