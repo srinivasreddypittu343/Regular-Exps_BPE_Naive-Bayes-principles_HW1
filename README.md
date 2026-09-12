@@ -24,6 +24,7 @@ This repository contains the full source code, manual calculations, and reflecti
 ```text
 .
 ├── main.ipynb           # Python script containing Q1, Q2, and Q5 implementations
+├── Homework_1_Pittu_700777009.docx # Documentation of the approach and solutions
 ├── README.md            # Comprehensive project documentation and report
 ```
 
